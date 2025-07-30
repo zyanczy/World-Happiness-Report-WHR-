@@ -16,15 +16,17 @@ Open **`DefineAndSolveMLProblem.ipynb`**
 ## 🔧 What You’ll See:
 
 - Data cleaning + missing values handled
-- Outlier detection (winsorization optional)
 - Feature correlation heatmaps
+
+  
 - Tried different models:
   - Linear Regression
   - Decision Tree (with GridSearch)
-  - Random Forest (tuned)
+  - Random Forest (with GridSearch)
+    
 - Compare MAE + R²
 - Feature importance plots
-- 
+  
 - Lessons learned: adding back one dropped feature boosted R² by 10%!
 
 ---
